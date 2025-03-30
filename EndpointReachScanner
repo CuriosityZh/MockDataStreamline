@@ -1,0 +1,23 @@
+
+---
+
+### **2. main_EndpointReachScanner**  
+**Description:**  
+Scans APIs for availability and logs response time across multiple services.
+
+#### **README.md**
+```markdown
+# EndpointReachScanner - Multi-API Availability Check
+
+EndpointReachScanner is built for developers to quickly audit uptime and performance of RESTful APIs.
+
+## Features
+- Measures latency + status  
+- CLI output or file log  
+- Supports bulk URL lists  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_EndpointReachScanner.git
+cd main_EndpointReachScanner
+python monitor.py
