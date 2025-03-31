@@ -1,0 +1,23 @@
+
+---
+
+### **3. main_LogTrendWatcher**  
+**Description:**  
+Analyzes logs to reveal common errors, trends, and spikes in activity.
+
+#### **README.md**
+```markdown
+# LogTrendWatcher - Log Pattern Analysis Tool
+
+LogTrendWatcher reveals frequently repeated messages, keyword trends, and possible attack indicators.
+
+## Features
+- Frequency and time-based summaries  
+- Keyword alerts  
+- Supports big log files  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_LogTrendWatcher.git
+cd main_LogTrendWatcher
+python analyze.py
